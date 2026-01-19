@@ -22,7 +22,7 @@ O objetivo é apoiar o aprendizado progressivo, do nível **básico ao intermedi
 ├── aulas/
 │   ├── 01_introducao/
 │   ├── 02_variaveis_e_tipos/
-│   ├── 03_condicionais/
+│   ├── 03_estrutura_de_dados/
 │   ├── 04_lacos_de_repeticao/
 │   ├── 05_funcoes/
 │   ├── 06_listas_tuplas_dicionarios/
@@ -31,10 +31,7 @@ O objetivo é apoiar o aprendizado progressivo, do nível **básico ao intermedi
 │   └── 09_pandas_e_dados/
 │
 ├── exercicios/
-│   ├── basico/
-│   ├── intermediario/
-│   └── desafios/
-│
+│   
 ├── projetos/
 │   └── mini_projetos/
 │
